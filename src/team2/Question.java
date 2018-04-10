@@ -22,6 +22,8 @@ public class Question {
 		pool_.add("Why are yeast NPCs so ugly?");
 		pool_.add("Who likes Kostek's music?");
 		pool_.add("When will the 4Pi be ready?");
+                pool_.add("When will be the 2 color working");
+                pool_.add("What is the PSF");
 
 	}
 
@@ -29,5 +31,6 @@ public class Question {
 		Random rand = new Random();
 		int value = rand.nextInt(pool_.size());
 		return pool_.get(value);
+                
 	}
 }
