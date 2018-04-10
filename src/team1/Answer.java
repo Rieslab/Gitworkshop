@@ -20,6 +20,7 @@ public class Answer {
 		pool_.add("Kostek");
 		pool_.add("Give it a try");
 		pool_.add("Give it another try");
+		pool_.add("Something funny");
 
 	}
 	
