@@ -18,6 +18,7 @@ public class Answer {
 		pool_.add("SMAP");
 		pool_.add("a pink elephant");
 		pool_.add("Kostek");
+		pool_.add("Give it a try");
 
 	}
 	
